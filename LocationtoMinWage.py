@@ -1,7 +1,7 @@
 '''
 Riddhi J Shah & Akash Mankar
 
-Social Activism Intended to be Proactive
+Social Activism Intended to be Provocative
 Minimum wage restriction on crowdsourcing tasks
 
 The following code can be used by crowdsourcing requesters to obtain location based minimum wage
