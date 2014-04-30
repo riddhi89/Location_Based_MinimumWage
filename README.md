@@ -1,7 +1,9 @@
 Social Activism Intended to be Proactive
+
 Minimum wage restriction on crowdsourcing tasks
 
 The following code can be used by crowdsourcing requesters to obtain location based minimum wage
+
 Source: http://en.wikipedia.org/wiki/List_of_minimum_wages_by_country
 
 Usage:
