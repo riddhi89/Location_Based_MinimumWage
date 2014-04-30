@@ -1,4 +1,4 @@
-Social Activism Intended to be Proactive
+Social Activism Intended to be Provocative
 
 Minimum wage restriction on crowdsourcing tasks
 
