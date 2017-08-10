@@ -1,4 +1,5 @@
-UPDATE: For the latest version of this API, refer: https://github.com/akash-mankar/DesignActivism/tree/master/location_based_min_wage
+UPDATE:
+For the latest version of this API, refer: https://github.com/akash-mankar/DesignActivism/tree/master/location_based_min_wage
 
 Social Activism Intended to be Provocative
 
